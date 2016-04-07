@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="carbon_hoursAgo">
+        <item quantity="one">hace una hora</item>
+        <item quantity="other">hace %d horas</item>
+    </plurals>
+    <string name="now">Ahora</string>
+    <plurals name="carbon_inHours">
+        <item quantity="one">en una hora</item>
+        <item quantity="other">en %d horas</item>
+    </plurals>
+    <plurals name="carbon_minutesAgo">
+        <item quantity="one">hace un minuto</item>
+        <item quantity="other">hace %d minutos</item>
+    </plurals>
+    <plurals name="carbon_inMinutes">
+        <item quantity="one">en un minuto</item>
+        <item quantity="other">en %d minutos</item>
+    </plurals>
+    <plurals name="carbon_secondsAgo">
+        <item quantity="one">hace un segundo</item>
+        <item quantity="other">hace %d segundos</item>
+    </plurals>
+    <plurals name="carbon_inSeconds">
+        <item quantity="one">en un segundo</item>
+        <item quantity="other">en %d segundos</item>
+    </plurals>
+
+    <plurals name="carbon_yearsAgo">
+        <item quantity="one">hace un año</item>
+        <item quantity="other">hace %d años</item>
+    </plurals>
+    <string name="thisYear">este año</string>
+    <plurals name="carbon_inYears">
+        <item quantity="one">en un año</item>
+        <item quantity="other">en %d años</item>
+    </plurals>
+    <plurals name="carbon_monthsAgo">
+        <item quantity="one">hace un mes</item>
+        <item quantity="other">hace %d meses</item>
+    </plurals>
+    <string name="thisMonth">este mes</string>
+    <plurals name="carbon_inMonths">
+        <item quantity="one">en un mes</item>
+        <item quantity="other">en %d meses</item>
+    </plurals>
+    <plurals name="carbon_daysAgo">
+        <item quantity="one">ayer</item>
+        <item quantity="other">hace %days días</item>
+    </plurals>
+    <string name="today">hoy</string>
+    <plurals name="carbon_inDays">
+        <item quantity="one">mañana</item>
+        <item quantity="other">en %d dias</item>
+    </plurals>
+</resources>
